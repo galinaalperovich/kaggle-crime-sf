@@ -15,6 +15,6 @@ URL of the competition: https://www.kaggle.com/c/sf-crime
 
 * folder **model/**  - list of NN models which were invlolved to experementations.
 
-* The file with intermediate results of the experiments on different Neural Net parameters: https://docs.google.com/spreadsheets/d/1qeAQOeDu3sI8lirf49QD7eeigWs_MNZbDhA1oXElQ94/edit?usp=sharing
+* The file with intermediate results of the experiments on different algorithms and Neural Net parameters: https://docs.google.com/spreadsheets/d/1qeAQOeDu3sI8lirf49QD7eeigWs_MNZbDhA1oXElQ94/edit?usp=sharing
 
 
