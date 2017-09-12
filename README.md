@@ -7,6 +7,8 @@ URL of the competition: https://www.kaggle.com/c/sf-crime
 
 ### Structure of the project: 
 
+* **report.pdf** - description of the tasks, feature engeneering process, description of suggested solution and comparison of different classifiaction algorithms
+
 * **sfcrime_data_preparation.ipynb** - reading, vizualization, feature extraction and saving to .h5 file
 
 * **different_classifiers.ipynb** - Logistic Regression, Random Forests, XgBoost, KNN and it's comparison. Parameters for RF, XGB and KNN are selected after experementations 
