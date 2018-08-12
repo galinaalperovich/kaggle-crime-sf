@@ -1,11 +1,8 @@
-# Kaggle task "Crime classification in San Francisco"
-Semestral work on subject "Bio-inspired algorithms", CVUT FEL
-
-May 2016, Alperovich Galina
+# Kaggle competition "Crime classification in San Francisco"
 
 URL of the competition: https://www.kaggle.com/c/sf-crime
 
-### Structure of the project: 
+### Structure of the repo: 
 
 * **report.pdf** - description of the tasks, feature engeneering process, description of suggested solution and comparison of different classifiaction algorithms
 
